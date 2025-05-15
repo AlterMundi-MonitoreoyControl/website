@@ -1,7 +1,7 @@
 # Ecosistema informático para la agricultura familiar
 
 
-Una arquitectura IoT para Zonas Rurales con Libremesh y MeshStatic (LoRa)
+Una arquitectura IoT para Zonas Rurales con Libremesh y MeshStatic (LoRa) dfgdg df 
 
 ## Objetivo
 
