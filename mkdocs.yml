@@ -6,4 +6,33 @@ repo_url: 'https://github.com/AlterMundi-MonitoreoyControl/website'
 markdown_extensions:
   - attr_list
   - md_in_html
-  - pymdownx.blocks.caption
+
+# SEO plugins
+plugins:
+  - search
+  - sitemap:
+      change_frequency: 'weekly'
+      priority: 1.0
+  - minify:
+      minify_html: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+
+# Theme configuration
+theme:
+  name: readthedocs  # or your preferred theme
+  features:
+    - navigation.top
+    - search.highlight
+
+# Enable SEO-friendly URLs
+use_directory_urls: true
+
+# Additional metadata
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/AlterMundi-MonitoreoyControl
+    - icon: fontawesome/brands/twiter
+      link: https://x.com/altermundinet
