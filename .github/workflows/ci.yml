@@ -26,5 +26,5 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: |
-          pip install mkdocs-material mkdocs-sitemap-plugin mkdocs-minify-plugin mkdocs-meta-descriptions-plugin mkdocs-redirects mkdocs-git-revision-date-localized-plugin
+          pip install mkdocs-material sitemap mkdocs-minify-plugin mkdocs-meta-descriptions-plugin mkdocs-redirects mkdocs-git-revision-date-localized-plugin
       - run: mkdocs gh-deploy --force
