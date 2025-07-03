@@ -1,6 +1,7 @@
 site_name: LibreIncu
 site_description: 'Documentación LibreIncu'
 site_author: 'AlterMundi-CTO'
+site_url: 'https://altermundi-monitoreoycontrol.github.io/website/'  # REQUIRED for
 docs_dir: docs/
 repo_url: 'https://github.com/AlterMundi-MonitoreoyControl/website'
 markdown_extensions:
@@ -10,14 +11,15 @@ markdown_extensions:
 # SEO plugins
 plugins:
   - search
-  - sitemap:
-      change_frequency: 'weekly'
-      priority: 1.0
   - minify:
       minify_html: true
       minify_css: true
       htmlmin_opts:
         remove_comments: true
+  - meta-descriptions
+  - redirects
+  - git-revision-date-localized:
+      enable_creation_date: true
 
 # Theme configuration
 theme:
