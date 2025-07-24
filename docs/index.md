@@ -2,6 +2,9 @@
 
 ![](/docs/images/IncuCeluQR.jpg)
 
+![](images/IncuCeluQR.jpg)
+
+
 ![](docs/images/IncuCeluQR.jpg)
 
 ![](/images/IncuCeluQR.jpg)
