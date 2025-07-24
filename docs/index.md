@@ -1,13 +1,7 @@
 # **LibreIncu: Tecnología Libre para la Soberanía Alimentaria en la AFCI**
 
-![](/docs/images/IncuCeluQR.jpg)
 
 ![](images/IncuCeluQR.jpg)
-
-
-![](docs/images/IncuCeluQR.jpg)
-
-![](/images/IncuCeluQR.jpg)
 
 
 [![Equipo de Desarrollo LibreIncu. Sistemas de Monitoreo y Control](https://www.youtube.com/watch?v=WrC1Y-ACtMoç/0.jpg)](https://www.youtube.com/watch?v=WrC1Y-ACtMoç)
