@@ -1,4 +1,5 @@
 # **LibreIncu: Tecnología Libre para la Soberanía Alimentaria en la AFCI**
+<img src="https://github.com/AlterMundi-MonitoreoyControl/website/blob/be7eaff86e1514680f33ec4bdbcd7455f5e2bc04/img/IncuCeluQR.jpg" alt="photo" width="150px">
 
 ![](/img/IncuCeluQR.jpg)
 
