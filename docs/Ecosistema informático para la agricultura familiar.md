@@ -18,32 +18,12 @@ Diseñar una arquitectura de hardware y software para redes de sensores IoT en z
 
 ### 2. Gateway Rural (LibreRouter + LoRa USB o MESHSTICK)
 
----
-
 ### 3. Broker MQTT en la Nube
-
----
 
 ### 4. Cliente de Datos + Visualización (Android app)
 
----
-
 ### 5. Odoo
-
----
 
 ## Diagrama General
 
-```mermaid
-graph TD
-  A[Sensor Node - MeshStatic] -- LoRa --> B[Gateway LibreRouter / BPI-R4]
-  B -- MQTT --> C[Mqtt Broker en la Nube]
-  C[Mqtt Broker en la Nube] --> D[Grafana] 
-  E[Sensor Node - esp32] -- WiFi --> B[Gateway LibreRouter / BPI-R4]
-  F[LLM-automatic recomendation server]  -->  C[Mqtt Broker en la Nube]
-  G[End User Android app] -->  C[Mqtt Broker en la Nube]
-  H[Odoo]  -->  C[Mqtt Broker en la Nube]
-  H[Odoo]  -->  F[LLM-automatic recomendation server]
-  H[Odoo]  -->  I[Chasqui]
-  D[Grafana] -->  F[LLM-automatic recomendation server]  
-```
+![](images/diagrama_general.png)
