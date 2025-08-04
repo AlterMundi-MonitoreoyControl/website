@@ -1,7 +1,7 @@
-# Ecosistema informático para la agricultura familiar
-![acec658b-c055-44ac-be86-17fe8b1ad65f](https://github.com/user-attachments/assets/ebfc3165-dc16-4070-bb76-0d35323ca2e4)
+**Estamos trabajando en Una arquitectura IoT para Zonas Rurales con Libremesh y MeshStatic (LoRa)**
 
-Estamos trabajando en Una arquitectura IoT para Zonas Rurales con Libremesh y MeshStatic (LoRa)
+![30f2c475-ed1b-4446-90ad-51627c62af78](https://github.com/user-attachments/assets/0e867ddc-0cbc-4a3b-ad3b-59eedda38d4c)
+
 
 **¿Qué es un Ecosistema Tecnológico para Economía Social y la Producción Sustentable?**
 
@@ -16,13 +16,15 @@ Este Ecosistema gira alrededor de las necesidades reales, explicitadas en 1ra pe
 
 La modularidad facilita la adaptación a diferentes realidades productivas y promueve la apropiación tecnológica por parte los trabajadores y los productores.
 
+![3da74bff-7ae3-4aab-a82d-1557e676576f](https://github.com/user-attachments/assets/40208095-812d-47c9-9598-1f6ef20fef70)
 
 
 ## Objetivo
 
 Diseñar una arquitectura de hardware y software para redes de sensores IoT en zonas rurales con vegetación densa, utilizando tecnologías de bajo consumo y largo alcance como LoRa, y conectividad comunitaria basada en Libremesh y LibreRouter.
 
----
+![ec64d393-8a63-401c-92c1-39ac9e7aa3b6](https://github.com/user-attachments/assets/57338577-5145-413c-9c50-37c5e951d571)
+
 
 ## Componentes Principales
 
@@ -43,3 +45,6 @@ Diseñar una arquitectura de hardware y software para redes de sensores IoT en z
 ## Diagrama General
 
 ![](images/diagrama_general.png)
+
+![73ffa666-a410-41f6-b30e-a40d041775c2](https://github.com/user-attachments/assets/8fc8fedd-28f5-41ed-9f31-82b9260f9943)
+
