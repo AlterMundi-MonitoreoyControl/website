@@ -4,9 +4,9 @@
 ![](images/IncuCeluQR.jpg)
 
 
-[![Equipo de Desarrollo LibreIncu. Sistemas de Monitoreo y Control](https://img.youtube.com/vi/WrC1Y-ACtMo/0.jpg)](https://www.youtube.com/watch?v=WrC1Y-ACtMo)
-
 ## **Introducción al Proyecto**
+
+[![Equipo de Desarrollo LibreIncu. Sistemas de Monitoreo y Control](https://img.youtube.com/vi/WrC1Y-ACtMo/0.jpg)][▶️Video "Presentación Incubadora AlterMundi"](https://www.youtube.com/watch?v=WrC1Y-ACtMo)
 
 LibreIncu es una iniciativa de soberanía tecnológica y alimentaria desarrollada colaborativamente por AlterMundi y Comunidad, Trabajo y Organización (CTO), junto con diversas organizaciones de la Agricultura Familiar, Campesina e Indígena (AFCI) de la provincia de Córdoba, Argentina. El proyecto busca romper la triple dependencia que enfrenta la AFCI en la producción avícola:
 
