@@ -29,7 +29,7 @@ Somos Tierra (programa) 07/03
 
 ## b) **Videos**
 
-1) En [este video](Youtube: https://youtu.be/KnWVigydmrw) encontrarán las voces de las comunidades que recibieron la incubadora en 1ra persona:
+1) En [este video](https://youtu.be/KnWVigydmrw) encontrarán las voces de las comunidades que recibieron la incubadora en 1ra persona:
 
 2) [Este video](https://youtu.be/x1D_cCt7HYg) resume la actividad de febrero de 2025, dónde se realizó una capacitación técnica sobre el uso de la incubadora y su entrega a las comunidades:
  
