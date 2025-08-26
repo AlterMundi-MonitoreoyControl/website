@@ -39,3 +39,12 @@ extra:
       link: https://github.com/AlterMundi-MonitoreoyControl
     - icon: fontawesome/brands/twitter
       link: https://x.com/altermundinet
+nav:
+    - Inicio: index.md
+    - Manual básico de incubadoras LibrePollo: "Manual básico de incubadoras LibrePollo.md"
+    - Huevos Fértiles e Incubación: "Huevos Fértiles e Incubación.md"
+    - LibrePollo - Aplicación: "LibrePollo - Aplicación.md"
+    - Preguntas para Buenas Prácticas: "Preguntas para las Buenas Prácticas de Incubación.md"
+    - Ecosistema informático: "Ecosistema informático para la agricultura familiar.md"
+    - Especificaciones técnicas: "Especificaciones_técnicas.md"
+    - Solución de problemas: "solucion de problemas.md"
