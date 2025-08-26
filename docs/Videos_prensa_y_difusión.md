@@ -1,9 +1,11 @@
 # Videos, prensa y difusión
 #####  Aquí encontrarás enlaces para: 
- a)Notas y artículos periodísticos - b)videos de difusión -  c)Artículos académicos
+ a) Notas y artículos periodísticos 
+ b) Videos de difusión 
+ c) Artículos académicos
 
   
-## a)**Artículos y notas**
+## a) **Artículos y notas**
 
 - Tiempo Argentino.Tiempo Rural.
 
@@ -41,7 +43,7 @@ Somos Tierra (programa) 07/03
 
 7) En [este video](https://youtu.be/IfGGvOIJ1b8) encontrarán testimonios sobre la 1er Capacitación realizada con las comunidades sobre manejo productivo de huevos fértiles e incubadora. 
 
-**c) Artículos Académicos**
+## c) **Artículos Académicos**
 
-1)X Congreso Latinoamericano de Agroecología - Asunciónd el Paraguay.
+1) X Congreso Latinoamericano de Agroecología - Asunciónd el Paraguay.
 [Innovación tecnológica y productiva en la cadena avícola para la agricultura familiar,campesina e indígena (AFCI). Córdoba-Argentina. Fabricio Puzio.](https://indico.una.py/event/3/contributions/772/)
