@@ -4,7 +4,7 @@
 ![](images/IncuCeluQR.jpg)
 
 
-[![Equipo de Desarrollo LibreIncu. Sistemas de Monitoreo y Control]](https://img.youtube.com/vi/WrC1Y-ACtMo/0.jpg)](https://www.youtube.com/watch?v=WrC1Y-ACtMo)
+[![Equipo de Desarrollo LibreIncu. Sistemas de Monitoreo y Control](https://img.youtube.com/vi/WrC1Y-ACtMo/0.jpg)](https://www.youtube.com/watch?v=WrC1Y-ACtMo)
 
 ## **Introducción al Proyecto**
 
