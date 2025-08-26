@@ -16,4 +16,5 @@ LibreIncu es una iniciativa de soberanía tecnológica y alimentaria desarrollad
 
 Como respuesta a este problema, LibreIncu presenta una incubadora avícola con tecnología de monitoreo y control en línea, diseñada específicamente para las necesidades de la AFCI, permitiendo la recuperación del "saber ancestral" y el desarrollo de genética propia para la transición hacia un modelo agroecológico integral.
 
+### ▶️ Equipo de desarrollo
 [![Equipo de Desarrollo LibreIncu. Sistemas de Monitoreo y Control](https://img.youtube.com/vi/SZky4Ak8hUw/0.jpg)](https://youtu.be/SZky4Ak8hUw)
