@@ -67,8 +67,6 @@ Desenrosca el pico de aspersión con cuidado, limpia con suavidad la boquilla pa
 Cuando apaques la incubadora asegurate de vaciar el circuito de agua y lubricar la bomba para preservarla del óxido.
 
 
-----
-----
 
 ### Solución de Problemas
 
