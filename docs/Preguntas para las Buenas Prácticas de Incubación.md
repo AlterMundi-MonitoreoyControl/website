@@ -3,7 +3,7 @@ title: 'Preguntas para las Buenas Prácticas de Incubación. '
 
 ---
 
-# Guía de preguntas para Buenas Prácticas de Incubacuíón 
+# Guía de preguntas para Buenas Prácticas de Incubacíón 
 MANEJO DE REPRODUCTORES, huevos fértiles e incubación:
 
 🐣 Gallinero y ambiente:
