@@ -1,7 +1,7 @@
 site_name: LibreIncu
 site_description: 'Documentación LibreIncu'
 site_author: 'AlterMundi-CTO'
-site_url: 'https://libreincu.altermundi.net/'  # REQUIRED for
+site_url: 'https://altermundi-monitoreoycontrol.github.io/website'  # REQUIRED for
 docs_dir: docs/
 extra_files: img/
 repo_url: 'https://github.com/AlterMundi-MonitoreoyControl/website'
