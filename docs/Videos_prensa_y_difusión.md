@@ -8,6 +8,8 @@
 ## a) **Artículos y notas**
 [-Tiempo argentino / Economía Presentan incubadora para potenciar la producción avícola de los pequeños productores](https://www.tiempoar.com.ar/ta_article/incubadora-avicola-productores/)
 
+[Legislatura de la Provincia de Córdoba.Se presentó “LibreIncu”, una incubadora diseñada para la agricultura familiar](https://legislaturacba.gob.ar/se-presento-la-libreincu-una-incubadora-disenada-para-la-agricultura-familiar/)
+
 - Tiempo Argentino.Tiempo Rural.
 
 [Crean “LibreIncu”, una incubadora para familias productoras que funciona con software libre](https://bit.ly/LibreIncu)
@@ -32,17 +34,21 @@ Somos Tierra (programa) 07/03
 
 ## b) **Videos**
 
-1) En [este video](https://youtu.be/KnWVigydmrw) encontrarán las voces de las comunidades que recibieron la incubadora en 1ra persona:
+En [este video](https://www.youtube.com/watch?v=uNX2r0yYUN8) encontrarán la presentación ante autoridades del proyecto en la Legislatura de la Provincia de Córdoba.
 
-2) [Este video](https://youtu.be/x1D_cCt7HYg) resume la actividad de febrero de 2025, dónde se realizó una capacitación técnica sobre el uso de la incubadora y su entrega a las comunidades:
- 
-4) En [este video](https://youtu.be/SZky4Ak8hUw), encontrarán las voces del Equipo de Altermundi, reflexionando sobre el proceso de desarrollo.
+En [este video](https://www.youtube.com/watch?v=J35QhUBAY-U) resume la jornada de trabajo con las comunidades que ya están produciendo con la Libreincu.
 
-5) En [este video](https://youtu.be/OzdKqgwdBYY) encontrarán testimonios sobre lo que implica el proyecto de desarrollo para las organizaciones involucradas. 
+En [este video](https://youtu.be/KnWVigydmrw) encontrarán las voces de las comunidades que recibieron la incubadora en 1ra persona:
 
-6) En [este video](https://www.youtube.com/watch?v=WrC1Y-ACtMo) encontrarán una presentación técnica Incubadora, con sus componentes:
+En [Este video](https://youtu.be/x1D_cCt7HYg) resume la actividad de febrero de 2025, dónde se realizó una capacitación técnica sobre el uso de la incubadora y su entrega a las comunidades:
 
-7) En [este video](https://youtu.be/IfGGvOIJ1b8) encontrarán testimonios sobre la 1er Capacitación realizada con las comunidades sobre manejo productivo de huevos fértiles e incubadora. 
+En [este video](https://youtu.be/SZky4Ak8hUw), encontrarán las voces del Equipo de Altermundi, reflexionando sobre el proceso de desarrollo.
+
+En [este video](https://youtu.be/OzdKqgwdBYY) encontrarán testimonios sobre lo que implica el proyecto de desarrollo para las organizaciones involucradas. 
+
+En [este video](https://www.youtube.com/watch?v=WrC1Y-ACtMo) encontrarán una presentación técnica Incubadora, con sus componentes:
+
+En [este video](https://youtu.be/IfGGvOIJ1b8) encontrarán testimonios sobre la 1er Capacitación realizada con las comunidades sobre manejo productivo de huevos fértiles e incubadora. 
 
 ## c) **Artículos Académicos**
 
